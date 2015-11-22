@@ -1,74 +1,22 @@
 export EDITOR='mvim -f' # ssh?
 export SVN_EDITOR=$EDITOR
 export VISUAL=$EDITOR
-# java
-export JAVA_HOME=$(/usr/libexec/java_home)
-export JAVA_OPTS="$JAVA_OPTS -Xms512m -Xmx1024m -XX:MaxPermSize=256m"
-export JRUBY_OPTS="$JRUBY_OPTS --1.9 -Xcompile.invokedynamic=true"
-export SBT_OPTS="-XX:MaxPermSize=256m"
+
 # node
 export NODE_PATH="/usr/local/lib/node:/usr/local/lib/node_modules"
 export NODE_BIN="/usr/local/share/npm/bin"
-# haskell
-export HASKELL_BIN="$HOME/Library/Haskell/bin"
-export CABAL_BIN=~/.cabal/bin
+
 # latex
 export TEX_BIN="/usr/texbin"
+
 # Heroku Toolbelt
 export HEROKU_BIN="/usr/local/heroku/bin"
+
 # path
-export PATH=$NODE_BIN:$HASKELL_BIN:$CABAL_BIN:$TEX_BIN:$HEROKU_BIN:$PATH
+export PATH=$NODE_BIN:$TEX_BIN:$PATH
+
 # fix jslint
 export JS_CMD=`which node`
-# ruby performance
-export RUBY_GC_HEAP_INIT_SLOTS=1000000
-export RUBY_HEAP_FREE_MIN=500000
-export RUBY_HEAP_SLOTS_INCREMENT=1000000
-export RUBY_HEAP_SLOTS_GROWTH_FACTOR=1
-export RUBY_GC_MALLOC_LIMIT=100000000
-
-export ANDROID_HOME=/usr/local/opt/android-sdk
-
-# Python
-# virtualenvwrapper
-export WORKON_HOME=$HOME/.virtualenvs
-export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python2.7
-export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
-export PIP_VIRTUALENV_BASE=$WORKON_HOME
-export PIP_RESPECT_VIRTUALENV=true
-export PIP_REQUIRE_VIRTUALENV=true
-
-[[ -f  /usr/local/bin/virtualenvwrapper.sh ]] && source /usr/local/bin/virtualenvwrapper.sh
-
-gpip(){
-   PIP_REQUIRE_VIRTUALENV="" pip "$@"
-}
-
-# Anaconda
-export CONDA_BIN="/Users/danielkirsch/anaconda/bin"
-export DYLD_FALLBACK_LIBRARY_PATH="/Users/danielkirsch/anaconda/lib"
-# path
-alias anaconda="export PATH=$CONDA_BIN:$PATH"
-
-# rbenv
-export RBENV_ROOT=/usr/local/var/rbenv
-if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
-export RPROMPT="\$(rbenv_prompt_info)"
-
-# nvm
-export NVM_DIR="/Users/danielkirsch/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
-
-# git stuff
-function git() { hub "$@"; }
-alias production='git tag | grep production | tail -n1'
-alias staging='git tag | grep staging | tail -n1'
-alias promas='git compare `production`...master'
-alias prodev='git compare `production`...development'
-alias stadev='git compare `staging`...development'
-alias stamas='git compare `staging`...master'
-alias prosta='git compare `production`...`staging`'
-alias stapro='git compare `staging`...`production`'
 
 # aliases
 [[ -a ~/.aliases ]] && source ~/.aliases
