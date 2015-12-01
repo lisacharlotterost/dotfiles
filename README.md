@@ -9,3 +9,9 @@
 7. Install vundle `$ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle`
 8. Install https://github.com/sstephenson/rbenv#homebrew-on-mac-os-x
 9. Set up git: https://help.github.com/articles/set-up-git#platform-mac
+
+
+
+Other tools to install when having a new computer:
+- unzipper --> http://www.kekaosx.com/de/
+- tilemill --> http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip
