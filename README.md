@@ -15,3 +15,6 @@
 Other tools to install when having a new computer:
 - unzipper --> http://www.kekaosx.com/de/
 - tilemill --> http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip
+- atom --> https://atom.io
+- atom minimap --> https://atom.io/packages/minimap
+- 
