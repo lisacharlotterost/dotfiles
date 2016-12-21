@@ -12,15 +12,53 @@
 
 
 
-Other tools to install when having a new computer:
-- unzipper --> http://www.kekaosx.com/de/
-- tilemill --> http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip
-- atom --> https://atom.io
+## Other tools to install when having a new computer:
+
+### DATA
+- R --> https://cran.rstudio.com/
+- R Studio --> https://www.rstudio.com/products/rstudio/download/
+- virtualnvwrapper etc --> blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
+
+
+
+- Unzipper --> http://www.kekaosx.com/de/
+- TileMill --> http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip
+- Excel
+- Dataprofer
+- OpenRefine
+- Trifacta Wrangler
+
+### TEXT / EDITORS 
+- iTerm 
+- Sublime 
+- IA Writer
+- Atom --> https://atom.io
   - atom minimap --> https://atom.io/packages/minimap
   - atom open-recent --> https://atom.io/packages/open-recent
   - atom color-picker --> https://atom.io/packages/color-picker
   - atom file-icons --> https://atom.io/packages/file-icons
   - more --> http://www.pcexpert-blog.com/2014/08/best-atom-io-packages-and-themes.html
-- R --> https://cran.rstudio.com/
-- R Studio --> https://www.rstudio.com/products/rstudio/download/
-- virtualenvwrapper etc --> blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
+
+
+## GRAPHIC
+- Adobe Illustrator, InDesign, Photoshop, Acrobat
+- QGis
+- TileMill
+- Gephi
+- licecap / gifox
+- Processing
+- Nodebox
+- Tableau Public
+
+
+## MISC
+
+- DeskTime
+- Dropbox
+- FileZilla
+- 1Password
+- OpenEmu
+- Skype
+- Spotify
+- Signal, Telegram
+- VLC
