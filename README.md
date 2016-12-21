@@ -17,7 +17,7 @@
 ### DATA
 - R --> https://cran.rstudio.com/
 - R Studio --> https://www.rstudio.com/products/rstudio/download/
-- virtualnvwrapper etc --> blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
+- virtualnvwrapper etc --> http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
 
 
 
@@ -38,6 +38,7 @@
   - atom color-picker --> https://atom.io/packages/color-picker
   - atom file-icons --> https://atom.io/packages/file-icons
   - more --> http://www.pcexpert-blog.com/2014/08/best-atom-io-packages-and-themes.html
+- Git-go --> https://github.com/gka/git-go
 
 
 ## GRAPHIC
