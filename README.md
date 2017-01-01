@@ -17,16 +17,16 @@
 ### DATA
 - [R](https://cran.rstudio.com/)
 - [R Studio](https://www.rstudio.com/products/rstudio/download/)
+- [OpenRefine](http://openrefine.org/download.html)
 - virtualnvwrapper etc --> http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
-- TileMill --> http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip
 - Excel
 - Dataprofer
-- OpenRefine
 - Trifacta Wrangler
+
 
 ### TEXT / EDITORS 
 - [iTerm](https://www.iterm2.com/)
-- Sublime 
+- [Sublime](https://www.sublimetext.com/2)
 - [IA Writer](https://ia.net/writer/)
 - [Atom](https://atom.io/)
   - atom minimap --> https://atom.io/packages/minimap
@@ -34,19 +34,19 @@
   - atom color-picker --> https://atom.io/packages/color-picker
   - atom file-icons --> https://atom.io/packages/file-icons
   - more --> http://www.pcexpert-blog.com/2014/08/best-atom-io-packages-and-themes.html
-- [node](https://nodejs.org/en/download/) for npm --> 'npm install npm@latest -g'
-- [Git-go](https://github.com/gka/git-go) --> 'npm install -g git-go'
+- [node](https://nodejs.org/en/download/) for npm --> `npm install npm@latest -g`
+- [Git-go](https://github.com/gka/git-go) --> `npm install -g git-go` 
 
 
 ## GRAPHIC
 - [Adobe Illustrator, InDesign, Photoshop, Acrobat](https://www.adobe.com/creativecloud/desktop-app.html)
-- QGis
-- TileMill
-- Gephi
-- licecap / gifox
+- [QGis](http://www.kyngchaos.com/software/qgis)
+- [TileMill](http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip)
+- [licecap](http://www.cockos.com/licecap/) / [gifox](http://gifox.io/)
+- [Tableau Public](https://public.tableau.com/s/)
 - Processing
 - Nodebox
-- Tableau Public
+- Gephi
 
 
 ## MISC
@@ -56,8 +56,8 @@
 - [Dropbox](https://www.dropbox.com/install)
 - [1Password](https://my.1password.com/apps)
 - [Spotify](https://www.spotify.com/de/download/other/)
-- FileZilla
-- OpenEmu
-- Skype
-- Signal, Telegram
+- [FileZilla](https://filezilla-project.org/download.php?type=client)
+- [OpenEmu](http://openemu.org/)
+- [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
+- [Signal](https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk), [Telegram](https://desktop.telegram.org/), [WhatsApp](https://www.whatsapp.com/download/)
 - VLC
