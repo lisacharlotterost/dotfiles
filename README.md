@@ -15,13 +15,9 @@
 ## Other tools to install when having a new computer:
 
 ### DATA
-- R --> https://cran.rstudio.com/
-- R Studio --> https://www.rstudio.com/products/rstudio/download/
+- [R](https://cran.rstudio.com/)
+- [R Studio](https://www.rstudio.com/products/rstudio/download/)
 - virtualnvwrapper etc --> http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
-
-
-
-- Unzipper --> http://www.kekaosx.com/de/
 - TileMill --> http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip
 - Excel
 - Dataprofer
@@ -29,20 +25,21 @@
 - Trifacta Wrangler
 
 ### TEXT / EDITORS 
-- iTerm 
+- [iTerm](https://www.iterm2.com/)
 - Sublime 
-- IA Writer
-- Atom --> https://atom.io
+- [IA Writer](https://ia.net/writer/)
+- [Atom](https://atom.io/)
   - atom minimap --> https://atom.io/packages/minimap
   - atom open-recent --> https://atom.io/packages/open-recent
   - atom color-picker --> https://atom.io/packages/color-picker
   - atom file-icons --> https://atom.io/packages/file-icons
   - more --> http://www.pcexpert-blog.com/2014/08/best-atom-io-packages-and-themes.html
-- Git-go --> https://github.com/gka/git-go
+- [node](https://nodejs.org/en/download/) for npm --> 'npm install npm@latest -g'
+- [Git-go](https://github.com/gka/git-go) --> 'npm install -g git-go'
 
 
 ## GRAPHIC
-- Adobe Illustrator, InDesign, Photoshop, Acrobat
+- [Adobe Illustrator, InDesign, Photoshop, Acrobat](https://www.adobe.com/creativecloud/desktop-app.html)
 - QGis
 - TileMill
 - Gephi
@@ -54,12 +51,13 @@
 
 ## MISC
 
-- DeskTime
-- Dropbox
+- [Unzipper](http://www.kekaosx.com/de/)
+- [DeskTime](https://desktime.com/download)
+- [Dropbox](https://www.dropbox.com/install)
+- [1Password](https://my.1password.com/apps)
+- [Spotify](https://www.spotify.com/de/download/other/)
 - FileZilla
-- 1Password
 - OpenEmu
 - Skype
-- Spotify
 - Signal, Telegram
 - VLC
