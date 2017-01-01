@@ -26,6 +26,8 @@
 
 ### TEXT / EDITORS 
 - [iTerm](https://www.iterm2.com/)
+- [Oh my Zsh] 
+  - place [Gitster Theme](https://github.com/shashankmehta/dotfiles/tree/master/thesetup/zsh/.oh-my-zsh/custom/themes) in `~/.oh-my-zsh/themes%` and set THEME to "gitster" in `open ~/.zshrc`
 - [Sublime](https://www.sublimetext.com/2)
 - [IA Writer](https://ia.net/writer/)
 - [Atom](https://atom.io/)
