@@ -58,6 +58,7 @@
 - [Spotify](https://www.spotify.com/de/download/other/)
 - [FileZilla](https://filezilla-project.org/download.php?type=client)
 - [OpenEmu](http://openemu.org/)
+- [Slack](https://slack.com/downloads/osx)
 - [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
 - [Signal](https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk), [Telegram](https://desktop.telegram.org/), [WhatsApp](https://www.whatsapp.com/download/)
 - VLC
