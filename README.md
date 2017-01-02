@@ -64,3 +64,4 @@
 - [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
 - [Signal](https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk), [Telegram](https://desktop.telegram.org/), [WhatsApp](https://www.whatsapp.com/download/)
 - VLC
+- [set Umlaute to Option key](https://hci.rwth-aachen.de/USGermanKeyboard)
