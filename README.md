@@ -36,7 +36,7 @@
   - atom color-picker --> https://atom.io/packages/color-picker
   - atom file-icons --> https://atom.io/packages/file-icons
   - more --> http://www.pcexpert-blog.com/2014/08/best-atom-io-packages-and-themes.html
-- [node](https://nodejs.org/en/download/) for npm --> `npm install npm@latest -g`
+- [node](https://nodejs.org/en/download/) for npm, then: `npm install npm@latest -g`
 - [Git-go](https://github.com/gka/git-go) --> `npm install -g git-go` 
 
 
@@ -46,6 +46,7 @@
 - [TileMill](http://tilemill.s3.amazonaws.com/dev/TileMill-v0.10.1-312-gfaf6910.zip)
 - [licecap](http://www.cockos.com/licecap/) / [gifox](http://gifox.io/)
 - [Tableau Public](https://public.tableau.com/s/)
+- [Wacom Intuos Pro Driver](http://www.wacom.com/en-at/support/product-support/drivers)
 - Processing
 - Nodebox
 - Gephi
