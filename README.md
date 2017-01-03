@@ -38,6 +38,7 @@
   - more --> http://www.pcexpert-blog.com/2014/08/best-atom-io-packages-and-themes.html
 - [node](https://nodejs.org/en/download/) for npm, then: `npm install npm@latest -g`
 - [Git-go](https://github.com/gka/git-go) --> `npm install -g git-go` 
+- [Jekyll for my blog](https://jekyllrb.com/docs/installation/)
 
 
 ## GRAPHIC
